@@ -104,4 +104,3 @@ The APRS weather packet wind speed field is supposed to be mph, but some receive
 ## Important Notes
 
 - WiFi credentials are hardcoded in `src/main.cpp` — use `MY_SSID`/`MY_PASS` build defines to override
-- Not currently a git repository
